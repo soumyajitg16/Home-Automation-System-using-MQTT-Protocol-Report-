@@ -1,0 +1,2 @@
+# Home-Automation-System-using-MQTT-Protocol-Report-
+This project is to control the speed of a motor using the NodeMCU ESP8266 microcontroller board by leveraging the MQTT protocol. The motor can be controlled remotely and integrated into larger IoT systems for automation and monitoring purposes. This project provides a foundation for further exploration and integration into various IoT applications.
